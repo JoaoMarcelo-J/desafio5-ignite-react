@@ -1,1 +1,54 @@
-// TODO
+.content {
+  max-width: 720px;
+  margin: 5rem auto 0;
+
+  h1 {
+    font-size: 4.8rem;
+    font-weight: 700;
+    margin-bottom: 1.5rem;
+  }
+
+  .boxSpan {
+    display: flex;
+  }
+
+  span {
+    display: flex;
+    align-items: center;
+    font-size: 1.4rem;
+    color: var(--info);
+    margin-right: 3.1rem;
+    margin-bottom: 6rem;
+
+    svg {
+      margin-right: 0.5rem;
+    }
+  }
+
+  .info {
+    margin: 5rem 0;
+
+    h2 {
+      font-size: 3rem;
+      margin: 5rem 0;
+    }
+
+    p,
+    ul {
+      line-height: 3rem;
+      margin-top: 2.4rem;
+    }
+
+    div {
+      font-size: 1.8rem;
+      color: var(--info);
+      line-height: 2.5rem;
+    }
+  }
+}
+
+.img {
+  width: 100%;
+  display: block;
+  margin: auto;
+}
