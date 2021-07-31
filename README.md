@@ -11,7 +11,6 @@
 <img src='./public/images/Home.png'>
 
 <br>
-<br>
 <hr>
 <br>
 
