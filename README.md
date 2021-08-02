@@ -4,7 +4,7 @@
 
 > # spacetraveling challenge 🌌
 
-<p> Challenge proposed and completed during the third class of Ignite. (Rocketseat)✅ 🔥 </p>
+<p> Challenge proposed and completed during the third class of Ignite. (Rocketseat) ✅ 🔥 </p>
 
 <br>
 
